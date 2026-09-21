@@ -1,0 +1,19 @@
+
+        h3{
+            color:chartreuse;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #welcome{
+            color:blueviolet;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .text{
+            color:coral;
+            font-size: x-large;
+        }
+        *{
+            color:crimson;
+            font-size: medium;
+        }
+    
